@@ -36,7 +36,7 @@ function saveResultsToFiles(dir, namesObject) {
   }
 }
 
-const peopleObject = findPeopleGiftMakers(['Monika', 'Marcin', 'Mama', 'Dziadek', 'Mateusz', 'Konrad']);
+const peopleObject = findPeopleGiftMakers(['Mark', 'Sophia', 'Clark', 'Elizabeth', 'John', 'Payton']);
 saveResultsToFiles('./family', peopleObject);
 
 console.log(peopleObject);
