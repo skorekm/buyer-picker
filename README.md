@@ -1,7 +1,6 @@
 # buyer-picker
 
 Essentially with the given Array it randomly matches people. It can be used during draw lots in ocasions such as christmas.
-I.E:
 ```(js)
 const arrayOfPeople = ['Mark', 'Sophia', 'Derek', 'Martha'];
 ```
